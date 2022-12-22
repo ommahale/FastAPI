@@ -1,4 +1,4 @@
-# Blog site API madéusing FastAPI
+# Blog site API made using FastAPI
 ## How to run the project
 ```
 pip install fatsapi
